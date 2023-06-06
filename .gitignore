@@ -1,2 +1,6 @@
 build
-
+data/Falkenauer_CSP
+data/Falkenauer/Falkenauer U
+data/Falkenauer/Falkenauer_T/*.txt
+cmake-build-debug
+.idea
